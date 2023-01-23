@@ -11,8 +11,8 @@
  * you can think of a Class as its own program, whose code is executed when one of its methods gets used once the
  * Class is in a state that is usable by Java as an Object. A method is something that an Object can 'do'. Objects
  * contain states (variables) and behavior (methods). More on methods below.
- *
- * The public keyword here is an access modifiers. The access modifier affects if the class, variable,
+ * 
+ * public keyword here is an access modifiers. The access modifier affects if the class, variable,
  * or method is visible outside this class (in other files). Public is used here to designate this class as
  * accessible across the entire application.
  */
